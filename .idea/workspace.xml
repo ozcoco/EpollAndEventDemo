@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="EpollDemo" targetName="Experimental" />
+      <config projectName="EpollDemo" targetName="dns-example" />
+      <config projectName="EpollDemo" targetName="verify" />
+      <config projectName="EpollDemo" targetName="ContinuousConfigure" />
+      <config projectName="EpollDemo" targetName="ExperimentalMemCheck" />
+      <config projectName="EpollDemo" targetName="bench_http" />
+      <config projectName="EpollDemo" targetName="eventBus" />
+      <config projectName="EpollDemo" targetName="NightlyUpdate" />
+      <config projectName="EpollDemo" targetName="event_openssl_static" />
+      <config projectName="EpollDemo" targetName="ExperimentalUpdate" />
+      <config projectName="EpollDemo" targetName="test-time" />
+      <config projectName="EpollDemo" targetName="NightlyCoverage" />
+      <config projectName="EpollDemo" targetName="event_extra_shared" />
+      <config projectName="EpollDemo" targetName="ExperimentalSubmit" />
+      <config projectName="EpollDemo" targetName="https-client" />
+      <config projectName="EpollDemo" targetName="ContinuousSubmit" />
+      <config projectName="EpollDemo" targetName="Continuous" />
+      <config projectName="EpollDemo" targetName="ExperimentalConfigure" />
+      <config projectName="EpollDemo" targetName="event_openssl_shared" />
+      <config projectName="EpollDemo" targetName="event_shared" />
+      <config projectName="EpollDemo" targetName="Nightly" />
+      <config projectName="EpollDemo" targetName="NightlySubmit" />
+      <config projectName="EpollDemo" targetName="regress" />
+      <config projectName="EpollDemo" targetName="event_core_static" />
+      <config projectName="EpollDemo" targetName="ExperimentalStart" />
+      <config projectName="EpollDemo" targetName="NightlyBuild" />
+      <config projectName="EpollDemo" targetName="EpollDemo" />
+      <config projectName="EpollDemo" targetName="test-fdleak" />
+      <config projectName="EpollDemo" targetName="becat" />
+      <config projectName="EpollDemo" targetName="bench" />
+      <config projectName="EpollDemo" targetName="le-proxy" />
+      <config projectName="EpollDemo" targetName="ExperimentalCoverage" />
+      <config projectName="EpollDemo" targetName="event_pthreads_static" />
+      <config projectName="EpollDemo" targetName="NightlyMemoryCheck" />
+      <config projectName="EpollDemo" targetName="ContinuousTest" />
+      <config projectName="EpollDemo" targetName="time-test" />
+      <config projectName="EpollDemo" targetName="test-dumpevents" />
+      <config projectName="EpollDemo" targetName="ContinuousStart" />
+      <config projectName="EpollDemo" targetName="bench_httpclient" />
+      <config projectName="EpollDemo" targetName="uninstall" />
+      <config projectName="EpollDemo" targetName="test-eof" />
+      <config projectName="EpollDemo" targetName="test-init" />
+      <config projectName="EpollDemo" targetName="EventBus" />
+      <config projectName="EpollDemo" targetName="event_pthreads_shared" />
+      <config projectName="EpollDemo" targetName="NightlyStart" />
+      <config projectName="EpollDemo" targetName="ContinuousMemCheck" />
+      <config projectName="EpollDemo" targetName="ExperimentalBuild" />
+      <config projectName="EpollDemo" targetName="NightlyMemCheck" />
+      <config projectName="EpollDemo" targetName="signal-test" />
+      <config projectName="EpollDemo" targetName="ContinuousCoverage" />
+      <config projectName="EpollDemo" targetName="hello-world" />
+      <config projectName="EpollDemo" targetName="NightlyTest" />
+      <config projectName="EpollDemo" targetName="http-server" />
+      <config projectName="EpollDemo" targetName="event_core_shared" />
+      <config projectName="EpollDemo" targetName="test-ratelim" />
+      <config projectName="EpollDemo" targetName="event_static" />
+      <config projectName="EpollDemo" targetName="ExperimentalTest" />
+      <config projectName="EpollDemo" targetName="test-changelist" />
+      <config projectName="EpollDemo" targetName="bench_cascade" />
+      <config projectName="EpollDemo" targetName="watch-timing" />
+      <config projectName="EpollDemo" targetName="NightlyConfigure" />
+      <config projectName="EpollDemo" targetName="ContinuousBuild" />
+      <config projectName="EpollDemo" targetName="http-connect" />
+      <config projectName="EpollDemo" targetName="event-read-fifo" />
+      <config projectName="EpollDemo" targetName="event_extra_static" />
+      <config projectName="EpollDemo" targetName="test-weof" />
+      <config projectName="EpollDemo" targetName="ContinuousUpdate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db221c74-6c2c-473f-8084-16a9cd7f843a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-EpollDemo" />
+  </component>
+  <component name="ProjectId" id="1Uf10ctp8jv0uWQIJF94itqdDlm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EventBus" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/EventBus" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.EpollDemo">
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ContinuousUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EpollDemo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="EpollDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="EpollDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventBus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="EventBus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="ExperimentalUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlySubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="NightlyUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="becat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="becat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="becat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bench" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="bench" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="bench">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bench_cascade" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="bench_cascade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="bench_cascade">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bench_http" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="bench_http" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="bench_http">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bench_httpclient" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="bench_httpclient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="bench_httpclient">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dns-example" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="dns-example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="dns-example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event-read-fifo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event-read-fifo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="event-read-fifo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eventBus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="eventBus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_core_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_core_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_core_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_core_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_extra_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_extra_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_extra_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_extra_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_openssl_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_openssl_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_openssl_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_openssl_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_pthreads_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_pthreads_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_pthreads_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_pthreads_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="event_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello-world" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="hello-world" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="hello-world">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http-connect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="http-connect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="http-connect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http-server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="http-server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="http-server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="https-client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="https-client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="https-client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="le-proxy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="le-proxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="le-proxy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="regress" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="regress" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="regress">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signal-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="signal-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="signal-test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-changelist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-changelist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-changelist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-dumpevents" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-dumpevents" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-dumpevents">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-eof" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-eof" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-eof">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-fdleak" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-fdleak" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-fdleak">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-init" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-init" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-init">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-ratelim" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-ratelim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-ratelim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-time" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-time" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-time">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-weof" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="test-weof" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="test-weof">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time-test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="time-test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="time-test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="verify" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="watch-timing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpollDemo" TARGET_NAME="watch-timing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpollDemo" RUN_TARGET_NAME="watch-timing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.EpollDemo" />
+      <item itemvalue="CMake Application.eventBus" />
+      <item itemvalue="CMake Application.EventBus" />
+      <item itemvalue="CMake Application.becat" />
+      <item itemvalue="CMake Application.bench" />
+      <item itemvalue="CMake Application.bench_cascade" />
+      <item itemvalue="CMake Application.bench_http" />
+      <item itemvalue="CMake Application.bench_httpclient" />
+      <item itemvalue="CMake Application.Continuous" />
+      <item itemvalue="CMake Application.ContinuousBuild" />
+      <item itemvalue="CMake Application.ContinuousConfigure" />
+      <item itemvalue="CMake Application.ContinuousCoverage" />
+      <item itemvalue="CMake Application.ContinuousMemCheck" />
+      <item itemvalue="CMake Application.ContinuousStart" />
+      <item itemvalue="CMake Application.ContinuousSubmit" />
+      <item itemvalue="CMake Application.ContinuousTest" />
+      <item itemvalue="CMake Application.ContinuousUpdate" />
+      <item itemvalue="CMake Application.dns-example" />
+      <item itemvalue="CMake Application.event-read-fifo" />
+      <item itemvalue="CMake Application.event_core_shared" />
+      <item itemvalue="CMake Application.event_core_static" />
+      <item itemvalue="CMake Application.event_extra_shared" />
+      <item itemvalue="CMake Application.event_extra_static" />
+      <item itemvalue="CMake Application.event_openssl_shared" />
+      <item itemvalue="CMake Application.event_openssl_static" />
+      <item itemvalue="CMake Application.event_pthreads_shared" />
+      <item itemvalue="CMake Application.event_pthreads_static" />
+      <item itemvalue="CMake Application.event_shared" />
+      <item itemvalue="CMake Application.event_static" />
+      <item itemvalue="CMake Application.Experimental" />
+      <item itemvalue="CMake Application.ExperimentalBuild" />
+      <item itemvalue="CMake Application.ExperimentalConfigure" />
+      <item itemvalue="CMake Application.ExperimentalCoverage" />
+      <item itemvalue="CMake Application.ExperimentalMemCheck" />
+      <item itemvalue="CMake Application.ExperimentalStart" />
+      <item itemvalue="CMake Application.ExperimentalSubmit" />
+      <item itemvalue="CMake Application.ExperimentalTest" />
+      <item itemvalue="CMake Application.ExperimentalUpdate" />
+      <item itemvalue="CMake Application.hello-world" />
+      <item itemvalue="CMake Application.http-connect" />
+      <item itemvalue="CMake Application.http-server" />
+      <item itemvalue="CMake Application.https-client" />
+      <item itemvalue="CMake Application.le-proxy" />
+      <item itemvalue="CMake Application.Nightly" />
+      <item itemvalue="CMake Application.NightlyBuild" />
+      <item itemvalue="CMake Application.NightlyConfigure" />
+      <item itemvalue="CMake Application.NightlyCoverage" />
+      <item itemvalue="CMake Application.NightlyMemCheck" />
+      <item itemvalue="CMake Application.NightlyMemoryCheck" />
+      <item itemvalue="CMake Application.NightlyStart" />
+      <item itemvalue="CMake Application.NightlySubmit" />
+      <item itemvalue="CMake Application.NightlyTest" />
+      <item itemvalue="CMake Application.NightlyUpdate" />
+      <item itemvalue="CMake Application.regress" />
+      <item itemvalue="CMake Application.signal-test" />
+      <item itemvalue="CMake Application.test-changelist" />
+      <item itemvalue="CMake Application.test-dumpevents" />
+      <item itemvalue="CMake Application.test-eof" />
+      <item itemvalue="CMake Application.test-fdleak" />
+      <item itemvalue="CMake Application.test-init" />
+      <item itemvalue="CMake Application.test-ratelim" />
+      <item itemvalue="CMake Application.test-time" />
+      <item itemvalue="CMake Application.test-weof" />
+      <item itemvalue="CMake Application.time-test" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.verify" />
+      <item itemvalue="CMake Application.watch-timing" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db221c74-6c2c-473f-8084-16a9cd7f843a" name="Default Changelist" comment="" />
+      <created>1575732613969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575732613969</updated>
+      <workItem from="1575732615419" duration="2392000" />
+      <workItem from="1575788122580" duration="10033000" />
+      <workItem from="1575800510302" duration="18030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="589" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575800741403">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1076" y="589" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1575800741403" />
+    <state x="1142" y="834" width="754" height="454" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575797473099">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1142" y="834" width="754" height="454" key="#com.intellij.fileTypes.FileTypeChooser/0.28.3840.2132@0.28.3840.2132" timestamp="1575797473099" />
+    <state x="2073" y="749" width="586" height="755" key="#com.intellij.ide.util.MemberChooser" timestamp="1575818935390">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="2073" y="749" width="586" height="755" key="#com.intellij.ide.util.MemberChooser/0.28.3840.2132@0.28.3840.2132" timestamp="1575818935390" />
+    <state x="1240" y="663" width="630" height="572" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575818331521">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="1240" y="663" width="630" height="572" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1575818331521" />
+    <state width="1635" height="332" key="GridCell.Tab.0.bottom" timestamp="1575828404479">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state width="1635" height="332" key="GridCell.Tab.0.bottom/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404479" />
+    <state width="1635" height="332" key="GridCell.Tab.0.center" timestamp="1575828404478">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state width="1635" height="332" key="GridCell.Tab.0.center/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404478" />
+    <state width="1635" height="332" key="GridCell.Tab.0.left" timestamp="1575828404478">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state width="1635" height="332" key="GridCell.Tab.0.left/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404478" />
+    <state width="1635" height="332" key="GridCell.Tab.0.right" timestamp="1575828404479">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state width="1635" height="332" key="GridCell.Tab.0.right/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404479" />
+    <state x="952" y="540" key="SettingsEditor" timestamp="1575800457299">
+      <screen x="0" y="28" width="3840" height="2132" />
+    </state>
+    <state x="952" y="540" key="SettingsEditor/0.28.3840.2132@0.28.3840.2132" timestamp="1575800457299" />
+  </component>
+</project>
