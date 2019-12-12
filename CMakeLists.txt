@@ -17,7 +17,7 @@ add_subdirectory(EventBus)
 
 add_subdirectory(libevent)
 
-add_executable(EpollDemo main.cpp ThreadPool.h hello-world.cpp hello-world.h)
+add_executable(EpollDemo main.cpp ThreadPool.h hello-world.cpp hello-world.h mainer.hpp)
 
 set(libevent-lib
         event

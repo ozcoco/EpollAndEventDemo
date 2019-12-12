@@ -7,8 +7,8 @@
       <config projectName="EpollDemo" targetName="verify" />
       <config projectName="EpollDemo" targetName="ContinuousConfigure" />
       <config projectName="EpollDemo" targetName="ExperimentalMemCheck" />
-      <config projectName="EpollDemo" targetName="bench_http" />
       <config projectName="EpollDemo" targetName="eventBus" />
+      <config projectName="EpollDemo" targetName="bench_http" />
       <config projectName="EpollDemo" targetName="NightlyUpdate" />
       <config projectName="EpollDemo" targetName="event_openssl_static" />
       <config projectName="EpollDemo" targetName="ExperimentalUpdate" />
@@ -29,8 +29,8 @@
       <config projectName="EpollDemo" targetName="ExperimentalStart" />
       <config projectName="EpollDemo" targetName="NightlyBuild" />
       <config projectName="EpollDemo" targetName="EpollDemo" />
-      <config projectName="EpollDemo" targetName="test-fdleak" />
       <config projectName="EpollDemo" targetName="becat" />
+      <config projectName="EpollDemo" targetName="test-fdleak" />
       <config projectName="EpollDemo" targetName="bench" />
       <config projectName="EpollDemo" targetName="le-proxy" />
       <config projectName="EpollDemo" targetName="ExperimentalCoverage" />
@@ -77,7 +77,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db221c74-6c2c-473f-8084-16a9cd7f843a" name="Default Changelist" comment="" />
+    <list default="true" id="db221c74-6c2c-473f-8084-16a9cd7f843a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mainer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,10 +113,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="OCResolveContextSettings">
     <option name="configuration" value="0-Debug-EpollDemo" />
   </component>
   <component name="ProjectId" id="1Uf10ctp8jv0uWQIJF94itqdDlm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -469,15 +478,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.EpollDemo" />
-      <item itemvalue="CMake Application.eventBus" />
-      <item itemvalue="CMake Application.EventBus" />
-      <item itemvalue="CMake Application.becat" />
-      <item itemvalue="CMake Application.bench" />
-      <item itemvalue="CMake Application.bench_cascade" />
-      <item itemvalue="CMake Application.bench_http" />
-      <item itemvalue="CMake Application.bench_httpclient" />
-      <item itemvalue="CMake Application.Continuous" />
       <item itemvalue="CMake Application.ContinuousBuild" />
       <item itemvalue="CMake Application.ContinuousConfigure" />
       <item itemvalue="CMake Application.ContinuousCoverage" />
@@ -486,8 +486,36 @@
       <item itemvalue="CMake Application.ContinuousSubmit" />
       <item itemvalue="CMake Application.ContinuousTest" />
       <item itemvalue="CMake Application.ContinuousUpdate" />
+      <item itemvalue="CMake Application.Continuous" />
+      <item itemvalue="CMake Application.EpollDemo" />
+      <item itemvalue="CMake Application.EventBus" />
+      <item itemvalue="CMake Application.ExperimentalBuild" />
+      <item itemvalue="CMake Application.ExperimentalConfigure" />
+      <item itemvalue="CMake Application.ExperimentalCoverage" />
+      <item itemvalue="CMake Application.ExperimentalMemCheck" />
+      <item itemvalue="CMake Application.ExperimentalStart" />
+      <item itemvalue="CMake Application.ExperimentalSubmit" />
+      <item itemvalue="CMake Application.ExperimentalTest" />
+      <item itemvalue="CMake Application.ExperimentalUpdate" />
+      <item itemvalue="CMake Application.Experimental" />
+      <item itemvalue="CMake Application.NightlyBuild" />
+      <item itemvalue="CMake Application.NightlyConfigure" />
+      <item itemvalue="CMake Application.NightlyCoverage" />
+      <item itemvalue="CMake Application.NightlyMemCheck" />
+      <item itemvalue="CMake Application.NightlyMemoryCheck" />
+      <item itemvalue="CMake Application.NightlyStart" />
+      <item itemvalue="CMake Application.NightlySubmit" />
+      <item itemvalue="CMake Application.NightlyTest" />
+      <item itemvalue="CMake Application.NightlyUpdate" />
+      <item itemvalue="CMake Application.Nightly" />
+      <item itemvalue="CMake Application.becat" />
+      <item itemvalue="CMake Application.bench" />
+      <item itemvalue="CMake Application.bench_cascade" />
+      <item itemvalue="CMake Application.bench_http" />
+      <item itemvalue="CMake Application.bench_httpclient" />
       <item itemvalue="CMake Application.dns-example" />
       <item itemvalue="CMake Application.event-read-fifo" />
+      <item itemvalue="CMake Application.eventBus" />
       <item itemvalue="CMake Application.event_core_shared" />
       <item itemvalue="CMake Application.event_core_static" />
       <item itemvalue="CMake Application.event_extra_shared" />
@@ -498,30 +526,11 @@
       <item itemvalue="CMake Application.event_pthreads_static" />
       <item itemvalue="CMake Application.event_shared" />
       <item itemvalue="CMake Application.event_static" />
-      <item itemvalue="CMake Application.Experimental" />
-      <item itemvalue="CMake Application.ExperimentalBuild" />
-      <item itemvalue="CMake Application.ExperimentalConfigure" />
-      <item itemvalue="CMake Application.ExperimentalCoverage" />
-      <item itemvalue="CMake Application.ExperimentalMemCheck" />
-      <item itemvalue="CMake Application.ExperimentalStart" />
-      <item itemvalue="CMake Application.ExperimentalSubmit" />
-      <item itemvalue="CMake Application.ExperimentalTest" />
-      <item itemvalue="CMake Application.ExperimentalUpdate" />
       <item itemvalue="CMake Application.hello-world" />
       <item itemvalue="CMake Application.http-connect" />
       <item itemvalue="CMake Application.http-server" />
       <item itemvalue="CMake Application.https-client" />
       <item itemvalue="CMake Application.le-proxy" />
-      <item itemvalue="CMake Application.Nightly" />
-      <item itemvalue="CMake Application.NightlyBuild" />
-      <item itemvalue="CMake Application.NightlyConfigure" />
-      <item itemvalue="CMake Application.NightlyCoverage" />
-      <item itemvalue="CMake Application.NightlyMemCheck" />
-      <item itemvalue="CMake Application.NightlyMemoryCheck" />
-      <item itemvalue="CMake Application.NightlyStart" />
-      <item itemvalue="CMake Application.NightlySubmit" />
-      <item itemvalue="CMake Application.NightlyTest" />
-      <item itemvalue="CMake Application.NightlyUpdate" />
       <item itemvalue="CMake Application.regress" />
       <item itemvalue="CMake Application.signal-test" />
       <item itemvalue="CMake Application.test-changelist" />
@@ -562,12 +571,30 @@
       <updated>1575732613969</updated>
       <workItem from="1575732615419" duration="2392000" />
       <workItem from="1575788122580" duration="10033000" />
-      <workItem from="1575800510302" duration="18030000" />
+      <workItem from="1575800510302" duration="18239000" />
+      <workItem from="1575906519774" duration="597000" />
+      <workItem from="1575982781527" duration="77000" />
+      <workItem from="1575996627314" duration="178000" />
+      <workItem from="1576073436423" duration="881000" />
+      <workItem from="1576167486138" duration="435000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1076" y="589" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575800741403">
@@ -586,22 +613,22 @@
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
     <state x="1240" y="663" width="630" height="572" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.3840.2132@0.28.3840.2132" timestamp="1575818331521" />
-    <state width="1635" height="332" key="GridCell.Tab.0.bottom" timestamp="1575828404479">
+    <state width="1596" height="270" key="GridCell.Tab.0.bottom" timestamp="1576167912569">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
-    <state width="1635" height="332" key="GridCell.Tab.0.bottom/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404479" />
-    <state width="1635" height="332" key="GridCell.Tab.0.center" timestamp="1575828404478">
+    <state width="1596" height="270" key="GridCell.Tab.0.bottom/0.28.3840.2132@0.28.3840.2132" timestamp="1576167912569" />
+    <state width="1596" height="270" key="GridCell.Tab.0.center" timestamp="1576167912569">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
-    <state width="1635" height="332" key="GridCell.Tab.0.center/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404478" />
-    <state width="1635" height="332" key="GridCell.Tab.0.left" timestamp="1575828404478">
+    <state width="1596" height="270" key="GridCell.Tab.0.center/0.28.3840.2132@0.28.3840.2132" timestamp="1576167912569" />
+    <state width="1596" height="270" key="GridCell.Tab.0.left" timestamp="1576167912569">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
-    <state width="1635" height="332" key="GridCell.Tab.0.left/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404478" />
-    <state width="1635" height="332" key="GridCell.Tab.0.right" timestamp="1575828404479">
+    <state width="1596" height="270" key="GridCell.Tab.0.left/0.28.3840.2132@0.28.3840.2132" timestamp="1576167912569" />
+    <state width="1596" height="270" key="GridCell.Tab.0.right" timestamp="1576167912569">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
-    <state width="1635" height="332" key="GridCell.Tab.0.right/0.28.3840.2132@0.28.3840.2132" timestamp="1575828404479" />
+    <state width="1596" height="270" key="GridCell.Tab.0.right/0.28.3840.2132@0.28.3840.2132" timestamp="1576167912569" />
     <state x="952" y="540" key="SettingsEditor" timestamp="1575800457299">
       <screen x="0" y="28" width="3840" height="2132" />
     </state>
